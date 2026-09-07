@@ -28,7 +28,4 @@ docker-compose.yml                 # mounts network and local volumes and runs t
 docker-compose.override.yml
 .dockerignore
 bin/ obj/ .vs/                     # build/IDE artifacts (ignored)
-```
-
-```
 
