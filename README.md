@@ -80,26 +80,6 @@ Files/paths used by the app:
 Environment and compose variables:
 - DOCKER_REGISTRY — optional prefix used by the compose image name (already present in the compose file). Example: set to `myregistry.azurecr.io/` if you push images.
 
-Important: The included docker-compose.yml contains concrete driver options (device, username, password, domain) as an example. Replace those values with your own configuration or use runtime secrets. Example safe template for docker-compose.yml volumes section:
-
-```yaml
-volumes:
-  network-drive:
-    driver: local
-    driver_opts:
-      type: "cifs"
-      o: "username=<USERNAME>,password=<PASSWORD>,domain=<DOMAIN>"
-      device: "//<SMB_HOST>/<share>/<path>"
-  local-drive:
-    driver: local
-    driver_opts:
-      type: "none"
-      o: "bind"
-      device: "<HOST_LOCAL_PATH>"
-```
-
-Security note: Do not store plaintext credentials in source control. Use Docker secrets, environment variables, or an external credential store.
-
 ## Behavior & limitations
 - The app performs a simple file enumeration and copy. It does not:
   - Preserve advanced metadata (ACLs, timestamps beyond standard copy behavior).
@@ -114,19 +94,7 @@ Security note: Do not store plaintext credentials in source control. Use Docker 
 - CIFS mount issues — verify SMB/CIFS drivers and network access; test mounting outside Docker first.
 - If docker-compose fails with permission or mount-driver errors, try mounting the share on the host and bind-mounting it into the container instead of using driver_opts.
 
-## Contributing
-- Open issues for feature requests or bugs.
-- For code changes: create a branch, add/update tests (if you add logic that can be unit-tested), and submit a PR against main.
-- Please avoid committing secrets or host-specific paths.
 
-## Suggested next improvements
-- Add recursive directory traversal and filtering (e.g., by extension or age).
-- Add retry logic and configurable concurrency.
-- Add configurable logging (structured, log levels).
-- Add a unit/functional test suite and CI pipeline.
-
-## License
-Add a license file to the repo (e.g., MIT) if you want to make the usage terms explicit.
 
 ```
 
