@@ -1,0 +1,16 @@
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\bin\Debug\SharedDriveAccess.deps.json
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\bin\Debug\SharedDriveAccess.runtimeconfig.json
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\bin\Debug\SharedDriveAccess.exe
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\bin\Debug\SharedDriveAccess.dll
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\bin\Debug\SharedDriveAccess.pdb
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\bin\Debug\SharedDriveAccess.deps.json
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\bin\Debug\SharedDriveAccess.runtimeconfig.json
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\bin\Debug\SharedDriveAccess.exe
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\bin\Debug\SharedDriveAccess.dll
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\bin\Debug\SharedDriveAccess.pdb
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\obj\Debug\docker-c.35A3FFBA.Up2Date

@@ -1,0 +1,28 @@
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\bin\Debug\net8.0\SharedDriveAccess.exe
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\bin\Debug\net8.0\SharedDriveAccess.deps.json
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\bin\Debug\net8.0\SharedDriveAccess.runtimeconfig.json
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\bin\Debug\net8.0\SharedDriveAccess.dll
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\bin\Debug\net8.0\SharedDriveAccess.pdb
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.AssemblyInfoInputs.cache
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.AssemblyInfo.cs
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.csproj.CoreCompileInputs.cache
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.dll
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\refint\SharedDriveAccess.dll
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.pdb
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.genruntimeconfig.cache
+C:\Users\fhulufhelo\source\repos\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\ref\SharedDriveAccess.dll
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\bin\Debug\net8.0\SharedDriveAccess.exe
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\bin\Debug\net8.0\SharedDriveAccess.deps.json
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\bin\Debug\net8.0\SharedDriveAccess.runtimeconfig.json
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\bin\Debug\net8.0\SharedDriveAccess.dll
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\bin\Debug\net8.0\SharedDriveAccess.pdb
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.AssemblyInfoInputs.cache
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.AssemblyInfo.cs
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.csproj.CoreCompileInputs.cache
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.dll
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\refint\SharedDriveAccess.dll
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.pdb
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\SharedDriveAccess.genruntimeconfig.cache
+C:\Users\fhulufhelo\source\repos\My Learning\SharedDriveAccess\SharedDriveAccess\obj\Debug\net8.0\ref\SharedDriveAccess.dll

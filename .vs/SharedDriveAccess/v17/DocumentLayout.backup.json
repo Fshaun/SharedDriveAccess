@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76854623-47EF-4240-B5EB-A83FD14A8408}|SharedDriveAccess\\SharedDriveAccess.csproj|c:\\users\\fhulufhelo\\source\\repos\\my learning\\shareddriveaccess\\shareddriveaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76854623-47EF-4240-B5EB-A83FD14A8408}|SharedDriveAccess\\SharedDriveAccess.csproj|solutionrelative:shareddriveaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}|docker-compose.dcproj|c:\\users\\fhulufhelo\\source\\repos\\my learning\\shareddriveaccess\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}|docker-compose.dcproj|c:\\users\\fhulufhelo\\source\\repos\\my learning\\shareddriveaccess\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76854623-47EF-4240-B5EB-A83FD14A8408}|SharedDriveAccess\\SharedDriveAccess.csproj|c:\\users\\fhulufhelo\\source\\repos\\my learning\\shareddriveaccess\\shareddriveaccess\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76854623-47EF-4240-B5EB-A83FD14A8408}|SharedDriveAccess\\SharedDriveAccess.csproj|solutionrelative:shareddriveaccess\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}|docker-compose.dcproj|c:\\users\\fhulufhelo\\source\\repos\\my learning\\shareddriveaccess\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}|docker-compose.dcproj|c:\\users\\fhulufhelo\\source\\repos\\my learning\\shareddriveaccess\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 69,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-07T07:15:49.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-09-07T07:15:49.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\SharedDriveAccess\\Dockerfile",
+              "RelativeDocumentMoniker": "SharedDriveAccess\\Dockerfile",
+              "ToolTip": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\SharedDriveAccess\\Dockerfile",
+              "RelativeToolTip": "SharedDriveAccess\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-07T07:15:49.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\SharedDriveAccess\\Program.cs",
+              "RelativeDocumentMoniker": "SharedDriveAccess\\Program.cs",
+              "ToolTip": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\SharedDriveAccess\\Program.cs",
+              "RelativeToolTip": "SharedDriveAccess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:15:49.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-09-07T07:15:49.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\fhulufhelo\\source\\repos\\My Learning\\SharedDriveAccess\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-07T07:15:49.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

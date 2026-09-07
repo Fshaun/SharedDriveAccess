@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SharedDriveAccess": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

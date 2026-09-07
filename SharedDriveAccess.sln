@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedDriveAccess", "SharedDriveAccess\SharedDriveAccess.csproj", "{76854623-47EF-4240-B5EB-A83FD14A8408}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76854623-47EF-4240-B5EB-A83FD14A8408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76854623-47EF-4240-B5EB-A83FD14A8408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76854623-47EF-4240-B5EB-A83FD14A8408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76854623-47EF-4240-B5EB-A83FD14A8408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CC2CEF-14C0-4B5E-9A78-4AA9DCBC1EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C09C4B-E9E8-48AE-A8E0-8912DCD008D0}
+	EndGlobalSection
+EndGlobal

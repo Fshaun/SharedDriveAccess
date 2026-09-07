@@ -1,0 +1,36 @@
+name: dockercompose11189548075144855321
+services:
+  shareddriveaccess:
+    build:
+      context: C:\Users\fhulufhelo\source\repos\SharedDriveAccess
+      dockerfile: SharedDriveAccess/Dockerfile
+    image: shareddriveaccess
+    networks:
+      default: null
+    volumes:
+      - type: volume
+        source: network-drive
+        target: /app/network
+        volume: {}
+      - type: volume
+        source: local-drive
+        target: /app/data
+        volume: {}
+networks:
+  default:
+    name: dockercompose11189548075144855321_default
+volumes:
+  local-drive:
+    name: dockercompose11189548075144855321_local-drive
+    driver: local
+    driver_opts:
+      device: C:/Users/fhulufhelo/Documents/DockerTest
+      o: bind
+      type: none
+  network-drive:
+    name: dockercompose11189548075144855321_network-drive
+    driver: local
+    driver_opts:
+      device: "//192.168.102.12/General/DPD\040IT\040Dept/Shaun"
+      o: username=fhulufhelo,password=Windows123,domain=dpdlaser.msft,vers=3.0,sec=ntlmssp
+      type: cifs

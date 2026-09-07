@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+  shareddriveaccess:
+    image: ${DOCKER_REGISTRY-}shareddriveaccess
+    build:
+      context: .
+      dockerfile: SharedDriveAccess/Dockerfile
+    volumes:
+      - network-drive:/app/network  # Mount the network drive to /app/network
+      - local-drive:/app/data       # Mount the local drive to /app/data
+
+volumes:
+  network-drive:
+    driver: local
+    driver_opts:
+      type: "cifs"
+      o: "username=fhulufhelo,password=Windows123,domain=dpdlaser.msft"
+      device: "//192.168.102.12/General/DPD IT Dept/Shaun"
+  local-drive:
+    driver: local
+    driver_opts:
+      type: "none"
+      o: "bind"
+      device: "C:/Users/fhulufhelo/Documents/DockerTest"  # Local directory to mount

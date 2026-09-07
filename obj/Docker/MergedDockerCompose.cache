@@ -1,0 +1,12 @@
+name: dockercompose11189548075144855321
+services:
+  shareddriveaccess:
+    build:
+      context: C:\Users\fhulufhelo\source\repos\SharedDriveAccess
+      dockerfile: SharedDriveAccess/Dockerfile
+    image: shareddriveaccess
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose11189548075144855321_default
